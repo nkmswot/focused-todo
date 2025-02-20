@@ -320,6 +320,7 @@ export default function FocusedTodo() {
           )}
         </AnimatePresence>
       </div>
+      <p>Powered By <strong>SWOT</strong></p>
     </div>
   )
 }
