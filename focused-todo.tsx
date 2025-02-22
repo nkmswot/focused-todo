@@ -319,8 +319,8 @@ export default function FocusedTodo() {
             </motion.div>
           )}
         </AnimatePresence>
+         <p>Powered By <strong>SWOT</strong></p>
       </div>
-      <p>Powered By <strong>SWOT</strong></p>
     </div>
   )
 }
